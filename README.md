@@ -20,6 +20,11 @@ Welcome to my data analytics portfolio! I'm building end-to-end analytics projec
 - Bachelor's in Economics (Vistula University)  
 - Diploma in Computer Science Engineering (JSPM's Rajarshi Shahu College)
 
+ ### 🏆 Certifications
+
+- **Deloitte Data Analytics Simulation** - May 2026 | [Verify](https://www.theforage.com)
+- **Goldman Sachs Risk Job Simulation** - October 2025 | Forage
+
 ### 📁 Current Projects
 1. **E-Commerce Order Analysis** - SQL queries + Power BI dashboard analyzing order fulfillment
 2. **Returns & Disputes Dashboard** - Operations analysis with advanced Power BI features
